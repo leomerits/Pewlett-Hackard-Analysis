@@ -8,6 +8,9 @@ As was shown by the analysis;
 -  There are about 133,776k employees that are approaching retirement by title.
 -  It was also seen that smong the upcoming retirees, there sre more engineers.
 -  The number of employees eligible for mentorship are around 1549
+
+![image](https://user-images.githubusercontent.com/34757498/140596650-cc37b57c-6e28-4679-bfa0-b36436f05a67.png)
+
 -  And among them, only 10% of the employees holding senior engineer title are among the the 1.5k employees that are eligible for mentorship.
 
   ![image](https://user-images.githubusercontent.com/34757498/140596586-ac1c9d65-e8b7-4820-b205-440ca68ff2d0.png)
