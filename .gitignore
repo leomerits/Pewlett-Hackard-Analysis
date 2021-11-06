@@ -1,3 +1,13 @@
+# Files
+queries.sql
+CODING NOTES
+departments
+dept_emp
+dept_manager
+employees
+retirement_info
+salaries
+titles
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
