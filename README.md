@@ -5,7 +5,10 @@ In this analysis, the purpose is to address the number of employees that are app
 
 # Results:
 As was shown by the analysis;
--  There are about 133,776k employees that are approaching retirement by title.
+-  There are about 41,380k employees that are approaching retirement by title.
+
+![image](https://user-images.githubusercontent.com/34757498/140596832-d33d01ec-d9a5-493c-acba-a893979dfb68.png)
+
 -  It was also seen that smong the upcoming retirees, there sre more engineers.
 -  The number of employees eligible for mentorship are around 1549
 
